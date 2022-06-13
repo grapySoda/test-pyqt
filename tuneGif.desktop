@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=tuneGif
+Icon=/home/ccs/Desktop/work/github/test-pyqt/pic/giff.png
+Exec=/home/ccs/Desktop/work/github/test-pyqt/test.py
+Comment=Jinn Application
+Categories=Application
+Terminal=false
+Path=/home/ccs/Desktop/work/github/test-pyqt/
